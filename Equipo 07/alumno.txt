@@ -1,0 +1,7 @@
+Nombre del proyecto: Aplicación móvil para niños con discapacidad auditiva.
+
+Alumnas:
+	Mariel López Beltrán			2018670492
+	Alejandra Monserrath Esparza Ríos	2018670112
+
+URL(s) del repositorio: 
